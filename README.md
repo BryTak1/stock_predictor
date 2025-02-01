@@ -84,9 +84,6 @@
         </ul>
         <h2>⚠️ Disclaimer</h2>
         <p>This application is for educational purposes only. The stock price predictions are based on historical data and should not be considered as financial advice. Always do your own research before making any investment decisions.</p>
-        <div class="button" onclick="window.location.href='https://https://github.com/BryTak1/stock_predictor'">
-            View on GitHub
-        </div>
     </div>
 </body>
 </html>
