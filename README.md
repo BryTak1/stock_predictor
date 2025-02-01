@@ -74,8 +74,6 @@
         </ul>
         <h2>🤝 Contributing</h2>
         <p>Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.</p>
-        <h2>📜 License</h2>
-        <p>This project is licensed under the MIT License. See the <a href="LICENSE" target="_blank">LICENSE</a> file for details.</p>
         <h2>🙏 Acknowledgments</h2>
         <ul>
             <li><strong>yfinance</strong>: For fetching historical stock data.</li>
